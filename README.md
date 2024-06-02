@@ -1,6 +1,6 @@
 
 # CalcSutra - An Advanced Calculator
-![CalcSutra Logo](https://drive.google.com/file/d/12oPbw3--695vtGE0tF8vE5-H2PDMoA_3/view?usp=sharing)
+![CalcSutra Logo](file:///D:/CalcSutra/app/src/main/res/drawable/applogo.png)
 
 CalcSutra is an advanced calculator app designed and developed in Android Studio. It features a wide array of functionalities including a basic calculator, scientific calculator, unit converter, and a comprehensive mathematical formula section. The frontend is built using XML, while the backend logic is implemented in Java.
 
